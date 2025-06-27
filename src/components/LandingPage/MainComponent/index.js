@@ -34,7 +34,7 @@ function MainComponent() {
           transition={{ delay: 1, duration: 1 }}
         >
           Track crypto through a public api in real time. Visit the dashboard to
-          do so!{" "}
+          do so! Built and developed by Vinit{" "}
         </motion.p>
         <motion.div
           className="btn-flex"
